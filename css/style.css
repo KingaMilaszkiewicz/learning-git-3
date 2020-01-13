@@ -1,5 +1,7 @@
 body {
+  background: #a0c4de;
   font-family: 'Open Sans', sans-serif;
+  padding-left: 40px;
 }
 
 h1 {
@@ -9,6 +11,15 @@ h1 {
 .author {
   font-style: italic;
   font-size: : 10px;
+}
+
+.song-body {
+  margin-top: 50px;
+  color: #2e4657;
+}
+
+.verse {
+  margin-top: 20px;
 }
 
 .verse-number {
