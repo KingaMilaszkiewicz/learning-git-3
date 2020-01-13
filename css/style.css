@@ -1,0 +1,17 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  font-family: 'Proza Libre', sans-serif;
+}
+
+.author {
+  font-style: italic;
+  font-size: : 10px;
+}
+
+.verse-number {
+  font-weight: 700;
+  font-style: italic;
+}
