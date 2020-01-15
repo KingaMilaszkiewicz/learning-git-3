@@ -1,21 +1,27 @@
 body {
-  background: #a0c4de;
   font-family: 'Open Sans', sans-serif;
   padding-left: 40px;
+  background: url("/images/ornn_portrait.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 h1 {
   font-family: 'Proza Libre', sans-serif;
+  z-index: 0;
 }
 
 .author {
   font-style: italic;
-  font-size: : 10px;
+  font-size: 15px;
+  z-index: 0;
 }
 
 .song-body {
   margin-top: 50px;
   color: #2e4657;
+  z-index: 0;
 }
 
 .verse {
